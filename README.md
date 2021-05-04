@@ -31,6 +31,18 @@
 
 **Step 04. Exploratory Data Analysis:**
 
+**Step 05. Data Preparation:** 
+
+**Step 06. Feature Selection:** 
+
+**Step 07. Machine Learning Modelling:** 
+
+**Step 08. Hyperparameter Fine Tunning:** 
+
+**Step 09. Convert Model Performance to Business Values:** 
+
+**Step 10. Deploy Modelo to Production:** 
+
 ## 4. Top 3 Data Insights
 
 
@@ -49,14 +61,4 @@
 
 ## 10. Next Steps to Improve
 
-**Step 05. Data Preparation:** 
 
-**Step 06. Feature Selection:** 
-
-**Step 07. Machine Learning Modelling:** 
-
-**Step 08. Hyperparameter Fine Tunning:** 
-
-**Step 09. Convert Model Performance to Business Values:** 
-
-**Step 10. Deploy Modelo to Production:** 
