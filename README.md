@@ -4,7 +4,7 @@
 
 ## Customer Clustering
 
-[Imagem]
+![Customer](/customer_image.jpg)
 
 ## 1. Business Problem
 
