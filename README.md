@@ -29,7 +29,25 @@
 
 **Step 03. Data Filtering:** 
 
-**Step 04. Exploratory Data Analysis:** 
+**Step 04. Exploratory Data Analysis:**
+
+## 4. Top 3 Data Insights
+
+
+## 5. Machine Learning Model Applied
+
+
+## 6. Machine Learning Modelo Performance
+
+## 7. Business Results
+
+## 8. Conclusions
+
+
+## 9. Lessons Learned
+
+
+## 10. Next Steps to Improve
 
 **Step 05. Data Preparation:** 
 
