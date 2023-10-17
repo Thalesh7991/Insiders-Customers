@@ -20,7 +20,7 @@
 
 - Remoção de compra de itens com valores menores do que $ 0.04.
 - Códigos de estoque como 'POST', 'D', 'DOT', 'M', 'S', 'AMAZONFEE', 'm', 'DCGSSBOY', 'DCGSSGIRL', 'PADS', 'B', 'CRUK' foram removidos pois não foi possível identificar sua finalidade.
-- 
+
 
 # description
 
