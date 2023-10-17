@@ -22,9 +22,6 @@
 - Códigos de estoque como 'POST', 'D', 'DOT', 'M', 'S', 'AMAZONFEE', 'm', 'DCGSSBOY', 'DCGSSGIRL', 'PADS', 'B', 'CRUK' foram removidos pois não foi possível identificar sua finalidade.
 
 
-# description
-
-
 ## 3. Solution Strategy
 
 ***My strategy to solve this challenge was:***
