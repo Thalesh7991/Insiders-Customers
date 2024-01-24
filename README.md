@@ -67,7 +67,7 @@ Os testes foram realizados usando os seguintes algoritmos:
 |  HC     |  0.443215	 |  0.469561 |  	0.529953 | 0.551710	 |  0.582836 |  	0.629056 | 0.645837	 |  0.667599 |  	0.671997 | 0.685611	 |
 
 
-
+![Clusters](/clusters.jpg)
 
 ## 7. Business Results
 
